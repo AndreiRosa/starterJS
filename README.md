@@ -7,7 +7,7 @@
 - /huntweb (front-end): React.js, CSS <br>
 - /hunt (mobile): React Native
 
-<h5> Obs: As stacks não estão conectadas entre si. Para o front-end e o mobile, foi utilizada esta <a href="http://rocketseat-node.herokuapp.com/api">API</a>
+<h5> Obs: As stacks não estão conectadas entre si. Para o front-end e o mobile, foi utilizada esta <a href="http://rocketseat-node.herokuapp.com/api">API</a>, acessada por meio do Axios.
 <br><br>
 
 💬 Fale comigo
